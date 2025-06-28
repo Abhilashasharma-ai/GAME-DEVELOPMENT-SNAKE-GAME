@@ -1,4 +1,15 @@
 # GAME-DEVELOPMENT-SNAKE-GAME
+COMPANY NAME: CODETECH IT SOLUTION
+
+NAME: ABHILASHA SHARMA
+
+INTERN ID: CT04DF338
+
+DOMAIN: C++
+
+MENTOR: NEELA SANTOSH
+
+#DISCRIPTION:
 The given C++ code is a full implementation of a **Snake Game using the SFML (Simple and Fast Multimedia Library)**. This game, a classic from early mobile phones and computer systems, challenges the player to control a snake that grows longer each time it consumes food, with the aim of avoiding collisions with the walls or itself. The code is organized using object-oriented programming principles and is designed to provide an interactive gaming experience with sound effects and visual feedback.
 
 At the core of the program lies the `SnakeGame` class, which encapsulates all game-related functionality. The constructor of this class initializes the game window, sets default values for variables, and loads resources such as fonts and sound effects. The window is created with a fixed size (800x600 pixels) and a frame rate limit of 60 frames per second to ensure smooth gameplay.
