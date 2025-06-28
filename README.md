@@ -31,3 +31,6 @@ Visual rendering is done in the `render()` function, where all snake segments an
 Audio elements enhance the gameplay experience. The game includes background music that loops during play, a sound effect when food is eaten, and another when the game ends due to a collision. These are loaded from audio files in the “assets” folder and add an immersive element to the simple visual style of the game.
 
 Finally, the `main()` function creates an instance of `SnakeGame` and calls its `run()` method to start the game. Overall, this project demonstrates effective use of SFML for creating an interactive and enjoyable game. It integrates graphics, audio, and user input handling, while maintaining clean structure and readability using object-oriented design. This code not only showcases basic game development but also serves as a strong foundation for adding features like difficulty levels, high scores, or even multiplayer functionality.
+
+OUTPUT:
+![Image](https://github.com/user-attachments/assets/caee6c26-c75e-4153-84b8-01fcfa30fb57)
